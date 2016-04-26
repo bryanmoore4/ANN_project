@@ -1,0 +1,15 @@
+data/trainingdata/00010_2014_03_25_19_02_50_torsey__a.png:65
+data/trainingdata/00011_2014_03_25_19_02_50_torsey__b.png:66
+data/trainingdata/00012_2014_03_25_19_02_50_torsey__c.png:67
+data/trainingdata/00013_2014_03_25_19_02_50_torsey__d.png:68
+data/trainingdata/00014_2014_03_25_19_02_50_torsey__e.png:69
+data/trainingdata/00053_2014_03_25_19_02_53_salem__a.png:65
+data/trainingdata/00054_2014_03_25_19_02_53_salem__b.png:66
+data/trainingdata/00055_2014_03_25_19_02_53_salem__c.png:67
+data/trainingdata/00056_2014_03_25_19_02_53_salem__d.png:68
+data/trainingdata/00057_2014_03_25_19_02_53_salem__e.png:69
+data/trainingdata/00183_2014_03_25_19_02_40_siskar__a.png:65
+data/trainingdata/00184_2014_03_25_19_02_40_siskar__b.png:66
+data/trainingdata/00185_2014_03_25_19_02_40_siskar__c.png:67
+data/trainingdata/00186_2014_03_25_19_02_40_siskar__d.png:68
+data/trainingdata/00187_2014_03_25_19_02_40_siskar__e.png:69
